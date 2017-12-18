@@ -17,6 +17,3 @@ QComboBox::drop-down {
     border-left-style: solid; /* just a single line */
 }
 ```
-- George Washington
-- John Adams
-- Thomas Jefferson
