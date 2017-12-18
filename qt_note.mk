@@ -1,4 +1,4 @@
-###QComboBox hide drop-down
+### QComboBox hide drop-down
 
 `QComboBox{
     background-color: white;
@@ -16,3 +16,6 @@ QComboBox::drop-down {
     border-left-style: solid; /* just a single line */
 }
 `
+- George Washington
+- John Adams
+- Thomas Jefferson
