@@ -2,4 +2,4 @@
 
 [Gist](https://gist.github.com/)
 
-[leetcode-solution]https://www.gitbook.com/book/siddontang/leetcode-solution/details
+[leetcode-solution](https://www.gitbook.com/book/siddontang/leetcode-solution/details)
