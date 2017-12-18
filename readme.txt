@@ -1,3 +1,1 @@
-first line
-second line
-first modify
+This project is for snippet notes and backup
