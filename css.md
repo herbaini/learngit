@@ -29,3 +29,4 @@ refs:
 
 [css center way1](https://www.w3cplus.com/css/vertically-center-content-with-css)
 [css center way2](https://www.w3cplus.com/css/centering-css-complete-guide.html)
+[css center way3](https://juejin.im/post/599970f4518825243a78b9d5)
