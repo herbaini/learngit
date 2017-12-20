@@ -26,3 +26,6 @@ fixed | 生成绝对定位的元素，相对于**浏览器窗口**进行定位�
 refs:
 [1](http://www.cnblogs.com/dolphinX/archive/2012/10/13/2722501.html) 
 [2](https://coolshell.cn/articles/6840.html)
+
+[css center way1](https://www.w3cplus.com/css/vertically-center-content-with-css)
+[css center way2](https://www.w3cplus.com/css/centering-css-complete-guide.html)
