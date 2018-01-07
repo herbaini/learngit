@@ -5,5 +5,5 @@
 [SurfaceView TextureView different](http://blog.csdn.net/jinzhuojun/article/details/44062175)
 
 NV21 -- MediaFormat.KEY_COLOR_FORMAT
-[](https://github.com/sszhangpengfei/MediaCodecEncodeH264)
-[](http://blog.csdn.net/yuxiatongzhi/article/details/48708639)
+[1](https://github.com/sszhangpengfei/MediaCodecEncodeH264)
+[2](http://blog.csdn.net/yuxiatongzhi/article/details/48708639)
