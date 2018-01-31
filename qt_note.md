@@ -20,3 +20,6 @@ QComboBox::drop-down {
 
 
 [SUBDIRS_-_handling_dependencies](https://wiki.qt.io/SUBDIRS_-_handling_dependencies)
+
+[QT Log](https://github.com/devbean/log4qt/blob/master/.gitignore)
+[QT Log](https://github.com/dept2/CuteLogger)
