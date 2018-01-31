@@ -17,3 +17,6 @@ QComboBox::drop-down {
     border-left-style: solid; /* just a single line */
 }
 ```
+
+
+[SUBDIRS_-_handling_dependencies](https://wiki.qt.io/SUBDIRS_-_handling_dependencies)
