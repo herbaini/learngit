@@ -23,3 +23,4 @@ QComboBox::drop-down {
 
 [QT Log](https://github.com/devbean/log4qt/blob/master/.gitignore)
 [QT Log](https://github.com/dept2/CuteLogger)
+[QT Addon](http://blog.csdn.net/qinpanke/article/details/22041871)
